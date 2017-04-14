@@ -1,0 +1,12 @@
+1.1.3:
+SELECT Name FROM Artist ORDER BY Name;
+
+1.1.4:
+SELECT * FROM Invoice WHERE BillingCountry = 'Germany';
+
+1.1.5:
+SELECT COUNT(*) FROM Album;
+
+1.1.6:
+SELECT COUNT(*) FROM Customer WHERE Country = 'France';
+(5 Customers are from France)
